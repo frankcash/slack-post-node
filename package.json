@@ -1,0 +1,22 @@
+{
+  "name": "slack-post-node",
+  "version": "1.0.0",
+  "description": "Quick tool to post to a slack channel w/ node.js",
+  "main": "slack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankcash/slack-post-node.git"
+  },
+  "author": "Frank Cash <frank@stockx.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/frankcash/slack-post-node/issues"
+  },
+  "homepage": "https://github.com/frankcash/slack-post-node#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
